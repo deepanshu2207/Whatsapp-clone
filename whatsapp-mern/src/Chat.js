@@ -20,7 +20,6 @@ function Chat({messages}) {
             setInput(""); 
     };  
     
-    
     return (
         <div className='chat'>
             <div className='chat__header'>
