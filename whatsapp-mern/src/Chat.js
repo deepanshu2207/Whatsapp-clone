@@ -16,10 +16,10 @@ function Chat({messages}) {
                 name: "DEMO APP",
                 timestamp: "Just now!",
                 received: false
-
             });   
             setInput(""); 
     };  
+    
     
     return (
         <div className='chat'>
